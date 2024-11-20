@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# modificare pentru ex 5 - Dorneanu Diana
 
 #  $1 - Nume de host (domeniu)
 #  $2 - Adresa IP
